@@ -1,6 +1,5 @@
 package org.example.ex1.shop;
 
-import org.example.ex1.product.Computer;
 import org.example.ex1.product.Phone;
 
 import java.util.List;
